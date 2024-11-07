@@ -1,0 +1,1 @@
+const admin = document.querySelector("click")
